@@ -1,4 +1,10 @@
+GitHub pages Quickstart:
 https://docs.github.com/en/pages/quickstart
+
+
+Deploying a ReactApp to GitHub pages
+https://github.com/gitname/react-gh-pages
+
 
 To access repository url go to:
 Settings > Pages
