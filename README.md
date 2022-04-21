@@ -1,3 +1,5 @@
+https://docs.github.com/en/pages/quickstart
+
 To access repository url go to:
 Settings > Pages
 # react-gh-pages
